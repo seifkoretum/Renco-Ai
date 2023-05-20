@@ -1,0 +1,339 @@
+.signup-student-container {
+  min-height: 100vh;
+}
+.signup-student-signup-student {
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1920px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.signup-student-svg {
+  top: 930px;
+  left: 1756px;
+  width: 300;
+  height: 300;
+  position: absolute;
+}
+.signup-student-svg1 {
+  top: 60px;
+  left: -150px;
+  width: 300;
+  height: 300;
+  position: absolute;
+}
+.signup-student-signupform {
+  top: 104px;
+  left: 99px;
+  width: 1722px;
+  height: 904px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.signup-student-rectangle8 {
+  top: 40px;
+  left: 0px;
+  width: 1722px;
+  height: 864px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(178, 205, 246, 0.6000000238418579);
+}
+.signup-student-rectangle26 {
+  top: 629px;
+  left: 1430px;
+  width: 141px;
+  height: 148px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.signup-student-rectangle25 {
+  top: 629px;
+  left: 848px;
+  width: 141px;
+  height: 148px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.signup-student-rectangle24 {
+  top: 629px;
+  left: 1042px;
+  width: 141px;
+  height: 148px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.signup-student-button {
+  top: 810px;
+  left: 965px;
+  width: 272px;
+  height: 51.66557693481445px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  background-color: rgba(57, 108, 241, 1);
+
+}
+.signup-student-text {
+  top: 8.303194999694824px;
+  left: 69.43583679199219px;
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-text1 {
+  top: 0px;
+  left: 861px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-text2 {
+  top: 111.062744140625px;
+  left: 162.0166015625px;
+  color: rgba(0, 0, 0, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-text3 {
+  top: 116px;
+  left: 1063px;
+  color: rgba(0, 0, 0, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-text4 {
+  top: 313.1119384765625px;
+  left: 162.0166015625px;
+  color: rgba(0, 0, 0, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-text5 {
+  top: 413px;
+  left: 162px;
+  color: rgba(0, 0, 0, 1);
+  width: 305px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-text6 {
+  top: 212.548583984375px;
+  left: 162.0166015625px;
+  color: rgba(0, 0, 0, 1);
+  width: 285px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-rectangle9 {
+  top: 107px;
+  left: 650px;
+  width: 365px;
+  height: 54px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-student-rectangle27 {
+  top: 109px;
+  left: 1206px;
+  width: 365px;
+  height: 54px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-student-rectangle11 {
+  top: 308.4990234375px;
+  left: 649.607421875px;
+  width: 921px;
+  height: 54px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-student-rectangle12 {
+  top: 409.0625px;
+  left: 649.607421875px;
+  width: 921px;
+  height: 54px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-student-rectangle13 {
+  top: 534.535888671875px;
+  left: 649.607421875px;
+  width: 921px;
+  height: 54px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-student-rectangle10 {
+  top: 208.858154296875px;
+  left: 649.607421875px;
+  width: 921px;
+  height: 54px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-student-text7 {
+  top: 540.994140625px;
+  left: 162.0166015625px;
+  color: rgba(0, 0, 0, 1);
+  width: 364px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signup-student-rectangle23 {
+  top: 629px;
+  left: 1236px;
+  width: 141px;
+  height: 148px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.signup-student-rectangle231 {
+  top: 629px;
+  left: 654px;
+  width: 141px;
+  height: 148px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.signup-student-text8 {
+  top: 657px;
+  left: 162px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

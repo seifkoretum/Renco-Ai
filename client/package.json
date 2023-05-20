@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "proxy": "http://localhost:5000/",
+  "dependencies": {
+    "@videosdk.live/rtc-js-prebuilt": "^0.3.6",
+    "face-api.js": "^0.22.2",
+    "md5": "^2.3.0",
+    "twilio": "^3.77.3"
+  }
+}
